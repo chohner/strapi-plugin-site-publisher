@@ -14,5 +14,5 @@ module.exports = {
   ],
   rules: {
     'func-style': [2, 'expression'],
-  }
+  },
 };

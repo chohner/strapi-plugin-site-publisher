@@ -41,9 +41,9 @@ module.exports = ({ env }) => ({
         // Optional inputs to pass through to the GitHub workflow
         some_input: 'Some value',
         some_other_input: 'Some other value',
-      }
-    }
-  }
+      },
+    },
+  },
 });
 ```
 

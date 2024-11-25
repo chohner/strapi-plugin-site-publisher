@@ -1,5 +1,5 @@
 {
- "git": {
+  "git": {
     "requireBranch": "main"
   },
   "github": {
@@ -19,7 +19,7 @@
             "type": "fix",
             "section": "Bug Fixes"
           },
-        {
+          {
             "type": "chore",
             "section": "Chores"
           }
